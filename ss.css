@@ -64,10 +64,10 @@ header
 }
 
 div.img#story{background-position:0px 0px;}
-div.img#chara{background-position:64px 0px;}
-div.img#home{background-position:128px 0px;}
-div.img#onair{background-position:192px 0px;}
-div.img#special{background-position:256px 0px;}
+div.img#chara{background-position:-64px 0px;}
+div.img#home{background-position:-128px 0px;}
+div.img#onair{background-position:-192px 0px;}
+div.img#special{background-position:-256px 0px;}
 
 
 .pankuzu li
