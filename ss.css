@@ -26,6 +26,7 @@ header
 #head ul
 {
 	overflow:hidden;
+	float:center;
 }
 
 #head li
