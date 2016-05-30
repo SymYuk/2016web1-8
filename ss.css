@@ -30,10 +30,7 @@ header
 
 #head li
 {
-	position:fixed;
-	top:50px;
-	left:256px;
-	float:left;
+	float:center;
 	width:128px;
 	border-right:black 2px solid;
 	list-style-type:none;
