@@ -51,6 +51,23 @@ header
 	font-weight:bold;
 }
 
+.pankuzu li
+{
+	display:inline;
+	list-style-type:none;
+}
+
+.pankuzu li:before
+{
+	content:" > ";
+}
+
+.pankuzu li:first-child:before
+{
+	content:"";
+}
+
+
 aside
 {
 	position:fixed;
