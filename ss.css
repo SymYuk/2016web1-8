@@ -54,6 +54,21 @@ header
 	font-weight:bold;
 }
 
+#head div.img
+{
+	display:table-cell;
+	vertical-align:middle;
+	background:url(splite.png)no-repeat;
+	width:64px;
+	height:64px;
+}
+
+div.img#story{background-position:0 0px;}
+div.img#chara{background-position:0 64px;}
+div.img#home{background-position:0 128px;}
+div.img#onair{background-position:0 192px;}
+div.img#special{background-position:0 256px;}
+
 .pankuzu li
 {
 	display:inline;
